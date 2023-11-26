@@ -35,8 +35,8 @@ ol {
 }
 
 .page {
+  display: flex;
   margin: auto;
-  padding: 133px 30px;
   color: #fff;
   font-family: "Fira Sans Condensed", sans-serif;
   font-size: 18px;
@@ -83,6 +83,7 @@ ol {
 
 .content {
   display: flex;
+  margin: auto 30px;
   flex: 1;
   justify-content: space-between;
   gap: 30px;
