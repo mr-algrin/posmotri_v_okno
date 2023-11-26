@@ -83,11 +83,11 @@ ol {
 
 .content {
   display: flex;
-  margin: auto 30px;
   flex: 1;
   justify-content: space-between;
   gap: 30px;
   max-height: 534px;
+  margin: auto 30px;
 }
 
 .result {
@@ -97,8 +97,8 @@ ol {
   justify-content: flex-end;
   gap: 16px;
   align-self: flex-end;
-  width: 100%;
-  max-width: 696px;
+  max-width: 711px;
+  min-width: 711px;
   max-height: 456px;
   margin-top: 78px;
 }
