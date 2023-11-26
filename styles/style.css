@@ -58,13 +58,14 @@ ol {
 .button {
   height: fit-content;
   border: 1px solid #fff;
-  padding: 6px 73.5px;
+  padding: 6px 73px;
   color: inherit;
   font-family: "Fira Sans Condensed", Arial, Helvetica, sans-serif;
   font-size: 18px;
-  line-height: 22px;
+  line-height: 20.5px;
   background-color: transparent;
   cursor: pointer;
+  margin: 0;
 }
 
 .button:hover {
@@ -162,8 +163,8 @@ ol {
 
 .search-form__pseudo-checkbox {
   position: relative;
-  width: 16px;
-  height: 16px;
+  width: 15px;
+  height: 15px;
   outline: 1px solid #fff;
   outline-offset: 2px;
   background-color: transparent;
